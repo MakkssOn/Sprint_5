@@ -1,1 +1,1 @@
-# qa_python
+Проект по автоматизации UI тестов для сервиса Stellar Burgers
